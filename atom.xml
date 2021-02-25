@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>游戏攻略</title>
   
-  
+  <subtitle>MN乐享-游戏攻略</subtitle>
   <link href="https://game.mrnaas.com/atom.xml" rel="self"/>
   
   <link href="https://game.mrnaas.com/"/>
