@@ -6,7 +6,7 @@
   <link href="https://game.mrnaas.com/atom.xml" rel="self"/>
   
   <link href="https://game.mrnaas.com/"/>
-  <updated>2021-02-22T02:56:08.251Z</updated>
+  <updated>2021-02-26T02:21:24.419Z</updated>
   <id>https://game.mrnaas.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://game.mrnaas.com/2021/022663534.html"/>
+    <id>https://game.mrnaas.com/2021/022663534.html</id>
+    <published>2021-02-26T02:21:03.000Z</published>
+    <updated>2021-02-26T02:21:24.419Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;ffffffffffffffffffff&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hexo</title>
