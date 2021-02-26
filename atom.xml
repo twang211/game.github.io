@@ -6,7 +6,7 @@
   <link href="https://game.mrnaas.com/atom.xml" rel="self"/>
   
   <link href="https://game.mrnaas.com/"/>
-  <updated>2021-02-26T02:21:24.419Z</updated>
+  <updated>2021-02-26T02:21:38.619Z</updated>
   <id>https://game.mrnaas.com/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>test</title>
-    <link href="https://game.mrnaas.com/2021/022663534.html"/>
-    <id>https://game.mrnaas.com/2021/022663534.html</id>
+    <link href="https://game.mrnaas.com/2021/test63534.html"/>
+    <id>https://game.mrnaas.com/2021/test63534.html</id>
     <published>2021-02-26T02:21:03.000Z</published>
-    <updated>2021-02-26T02:21:24.419Z</updated>
+    <updated>2021-02-26T02:21:38.619Z</updated>
     
     
       
@@ -40,8 +40,8 @@
   
   <entry>
     <title>Hexo</title>
-    <link href="https://game.mrnaas.com/2021/0222undefined.html"/>
-    <id>https://game.mrnaas.com/2021/0222undefined.html</id>
+    <link href="https://game.mrnaas.com/2021/hexoundefined.html"/>
+    <id>https://game.mrnaas.com/2021/hexoundefined.html</id>
     <published>2021-02-22T02:56:08.000Z</published>
     <updated>2021-02-22T02:56:08.251Z</updated>
     
@@ -53,8 +53,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://game.mrnaas.com/2021/022216107.html"/>
-    <id>https://game.mrnaas.com/2021/022216107.html</id>
+    <link href="https://game.mrnaas.com/2021/hello-world16107.html"/>
+    <id>https://game.mrnaas.com/2021/hello-world16107.html</id>
     <published>2021-02-22T02:55:01.856Z</published>
     <updated>2021-02-26T02:13:48.293Z</updated>
     
